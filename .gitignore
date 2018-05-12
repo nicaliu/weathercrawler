@@ -2,4 +2,5 @@
 *.pyc
 
 # my cloned files
-WeatherCrawler/
+weathercrawler_origin/
+PyCrawler/
